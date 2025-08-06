@@ -1,0 +1,1178 @@
+[0m2021.11.11 22:03:16 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala-Nix' .[0m
+[0m2021.11.11 22:03:20 INFO  time: initialize in 4.73s[0m
+[0m2021.11.11 22:03:23 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.11 22:03:23 WARN  no build tool detected in workspace '/home/runner/Scala-Nix'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.05.19 15:45:23 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.05.19 15:45:29 INFO  time: initialize in 5.87s[0m
+[0m2022.05.19 15:45:33 WARN  Build server is not auto-connectable.[0m
+[0m2022.05.19 15:45:33 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.02 17:17:49 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.02 17:17:53 INFO  time: initialize in 3.99s[0m
+[0m2022.06.02 17:17:54 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.02 17:17:54 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.02 17:31:28 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.02 17:31:31 INFO  time: initialize in 3.22s[0m
+[0m2022.06.02 17:31:31 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.02 17:31:31 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.02 18:03:20 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.02 18:03:23 INFO  time: initialize in 3s[0m
+[0m2022.06.02 18:03:23 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.02 18:03:23 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.02 18:03:26 WARN  no build target for: /home/runner/Scala/main.scala[0m
+[0m2022.06.02 18:03:43 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2022.06.02 18:03:43 WARN  no build target for: /home/runner/Scala/main.scala[0m
+[0m2022.06.02 20:57:14 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.02 20:57:17 INFO  time: initialize in 3.39s[0m
+[0m2022.06.02 20:57:18 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.02 20:57:18 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.03 19:23:42 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.03 19:23:45 INFO  time: initialize in 3.11s[0m
+[0m2022.06.03 19:23:46 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.03 19:23:46 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.08 22:58:55 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.09 14:24:41 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.09 14:24:43 INFO  time: initialize in 2.65s[0m
+[0m2022.06.09 14:24:47 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.09 14:24:47 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.09 14:29:56 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.09 14:30:00 INFO  time: initialize in 4.82s[0m
+[0m2022.06.09 14:30:01 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.09 14:30:01 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.09 15:21:31 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.09 15:21:34 INFO  time: initialize in 2.55s[0m
+[0m2022.06.09 15:21:34 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.09 15:21:34 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.06.09 21:31:41 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.06.09 21:31:44 INFO  time: initialize in 2.49s[0m
+[0m2022.06.09 21:31:44 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.09 21:31:44 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.07.22 17:01:51 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.07.22 17:01:53 INFO  time: initialize in 2.03s[0m
+[0m2022.07.22 17:01:57 WARN  Build server is not auto-connectable.[0m
+[0m2022.07.22 17:01:57 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.07.22 17:01:57 WARN  no build target for: /home/runner/Scala/main.scala[0m
+[0m2022.07.27 14:16:45 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.07.27 14:16:48 INFO  time: initialize in 2.82s[0m
+[0m2022.07.27 14:16:48 WARN  Build server is not auto-connectable.[0m
+[0m2022.07.27 14:16:48 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.08.18 03:48:35 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.08.18 03:48:37 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.08.18 03:48:38 INFO  time: initialize in 3.72s[0m
+[0m2022.08.18 03:48:39 INFO  time: initialize in 2.74s[0m
+[0m2022.08.18 12:29:43 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2022.08.18 12:29:45 INFO  time: initialize in 2.25s[0m
+[0m2022.08.18 12:29:48 WARN  Build server is not auto-connectable.[0m
+[0m2022.08.18 12:29:48 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.08.18 12:30:24 WARN  no build target for: /home/runner/Scala/main.scala[0m
+[0m2022.08.18 12:30:37 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2023.02.24 19:35:08 INFO  Started: Metals version 0.10.5 in workspace '/home/runner/Scala' .[0m
+[0m2023.02.24 19:35:10 INFO  time: initialize in 2.1s[0m
+[0m2023.02.24 19:35:10 WARN  Build server is not auto-connectable.[0m
+[0m2023.02.24 19:35:10 WARN  no build tool detected in workspace '/home/runner/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.02.24 19:35:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/Scala/.metals/lsp.trace.json or /home/runner/.cache/metals/lsp.trace.json
+2023.02.24 19:35:24 INFO  logging to file /home/runner/Scala/.metals/metals.log
+2023.02.24 19:35:24 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/Scala' .
+2023.02.24 19:35:26 INFO  Deleting old database format /home/runner/Scala/.metals/metals.h2.db
+2023.02.24 19:35:27 INFO  time: initialize in 3.1s
+2023.02.24 19:35:26 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.03.30 23:31:33 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/Scala/.metals/lsp.trace.json or /home/runner/.cache/metals/lsp.trace.json
+2023.03.30 23:31:33 INFO  logging to file /home/runner/Scala/.metals/metals.log
+2023.03.30 23:31:33 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/Scala' .
+2023.03.30 23:31:35 INFO  time: initialize in 2.12s
+2023.03.30 23:31:35 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.11 16:22:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.11 16:22:10 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.11 16:22:10 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.11 16:22:30 INFO  time: initialize in 19s
+2023.11.11 16:22:31 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.11 16:36:29 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:36:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1784859481
+2023.11.11 16:36:59 INFO  no build target found for /home/runner/test-3/main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+Nov 11, 2023 4:37:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1220812200
+Nov 11, 2023 4:37:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 111760933
+2023.11.11 16:37:00 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:37:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 949717161
+2023.11.11 16:37:00 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:37:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1792443270
+2023.11.11 16:37:00 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.11 16:37:00 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.11 16:37:49 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.11 16:37:53 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.11 16:37:58 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:37:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 278471577
+2023.11.11 16:38:02 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:38:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1828986501
+2023.11.11 16:38:07 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:38:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 596224282
+Nov 11, 2023 4:38:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 557358445
+Nov 11, 2023 4:38:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1149348210
+Nov 11, 2023 4:38:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1091452283
+Nov 11, 2023 4:38:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1597587760
+2023.11.11 16:38:12 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.11 16:38:13 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.11 16:38:15 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:38:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1958943031
+Nov 11, 2023 4:38:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 768614082
+Nov 11, 2023 4:38:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1721959660
+2023.11.11 16:38:26 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:38:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1649825441
+Nov 11, 2023 4:38:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 324840902
+Nov 11, 2023 4:38:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 745176567
+2023.11.11 16:38:29 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 11, 2023 4:39:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 349399902
+2023.11.11 16:39:33 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.11 16:39:35 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.11 18:02:57 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.11 18:03:00 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.11 18:03:00 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.11 18:03:07 INFO  time: initialize in 7.58s
+2023.11.11 18:03:08 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.11 18:11:35 INFO  no build target found for /home/runner/test-3/main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2023.11.11 21:21:25 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.11 21:21:30 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.11 21:21:30 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.11 21:21:39 INFO  time: initialize in 9.27s
+2023.11.11 21:21:39 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.11 23:07:08 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.11 23:07:13 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.11 23:07:13 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.11 23:07:22 INFO  time: initialize in 9.27s
+2023.11.11 23:07:23 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.12 00:34:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.12 13:29:52 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.12 13:29:56 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.12 13:29:56 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.12 13:30:06 INFO  time: initialize in 9.84s
+2023.11.12 13:30:07 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.12 13:31:11 INFO  no build target found for /home/runner/test-3/Question ex.1 (1).scala. Using presentation compiler with project's scala-library version: 3.2.0
+2023.11.12 13:31:27 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:31:30 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.11.12 13:32:33 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+Nov 12, 2023 1:32:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1137615525
+2023.11.12 13:32:36 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:32:40 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:32:42 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:32:47 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:32:51 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:33:47 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:33:55 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:33:57 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:34:02 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:34:04 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+Nov 12, 2023 1:34:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 462668631
+Nov 12, 2023 1:34:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 297911554
+Nov 12, 2023 1:34:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 120997324
+2023.11.12 13:34:09 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:34:11 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:34:17 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:34:35 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+Nov 12, 2023 1:34:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1856345866
+2023.11.12 13:35:13 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+2023.11.12 13:35:17 WARN  no build target for: /home/runner/test-3/Question ex.1 (1).scala
+Nov 12, 2023 1:36:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 75, end 87, length 0
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 75, end 87, length 0
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 75, end 87, length 0
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4604)
+	at java.base/java.lang.String.substring(String.java:2707)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:667)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:51)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:50)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:49)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.11.12 13:36:04 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:36:53 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:36:55 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:37:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1676152433
+Nov 12, 2023 1:37:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1047949382
+Nov 12, 2023 1:37:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 502776464
+2023.11.12 13:37:31 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:37:36 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:37:38 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:37:42 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:37:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2031522286
+2023.11.12 13:37:51 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:39:13 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:39:17 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:41:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 909750723
+Nov 12, 2023 1:41:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 972791222
+2023.11.12 13:41:27 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:41:32 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:41:34 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:41:36 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:41:40 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:45:19 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:45:41 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:45:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 535370116
+2023.11.12 13:45:47 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:15 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:18 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:52:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1202376752
+Nov 12, 2023 1:52:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 272392303
+Nov 12, 2023 1:52:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1380727283
+Nov 12, 2023 1:52:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 661217211
+Nov 12, 2023 1:52:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 535000592
+2023.11.12 13:52:22 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:24 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:26 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:52:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1168309510
+2023.11.12 13:52:28 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:52:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 433227620
+2023.11.12 13:52:32 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:35 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:38 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:42 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:46 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:50 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:52:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1973245864
+Nov 12, 2023 1:52:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1611794691
+Nov 12, 2023 1:52:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1840589146
+Nov 12, 2023 1:52:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1987679125
+2023.11.12 13:52:54 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:52:57 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:53:02 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:53:06 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:53:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 551181413
+2023.11.12 13:53:09 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:53:11 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:53:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37084414
+Nov 12, 2023 1:53:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 423666511
+Nov 12, 2023 1:53:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1051673361
+2023.11.12 13:53:16 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:53:19 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:53:24 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:53:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 756209534
+2023.11.12 13:53:28 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:53:31 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:53:34 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:53:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 470466591
+2023.11.12 13:54:25 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:54:32 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:54:35 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:54:38 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:54:49 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:54:54 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 13:54:57 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 1:56:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1419722321
+Nov 12, 2023 1:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1903071316
+Nov 12, 2023 1:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1039621658
+2023.11.12 17:28:40 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.12 17:28:44 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.12 17:28:44 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.12 17:28:54 INFO  time: initialize in 9.77s
+2023.11.12 17:28:55 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.12 17:28:58 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:28:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1494612778
+Nov 12, 2023 5:28:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 437855639
+2023.11.12 17:29:44 INFO  no build target found for /home/runner/test-3/main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+Nov 12, 2023 5:29:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1728477616
+2023.11.12 17:29:47 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 17:29:48 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1449318819
+Nov 12, 2023 5:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1157104636
+2023.11.12 17:29:49 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1166998297
+Nov 12, 2023 5:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1573466513
+Nov 12, 2023 5:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1243570
+Nov 12, 2023 5:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 649711702
+Nov 12, 2023 5:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1565923015
+Nov 12, 2023 5:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 111386077
+2023.11.12 17:29:49 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:29:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1120725481
+Nov 12, 2023 5:29:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1575249013
+2023.11.12 17:29:52 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 17:29:52 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:29:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 566793474
+2023.11.12 17:29:54 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:29:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30870505
+2023.11.12 17:29:56 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:29:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 94437681
+Nov 12, 2023 5:29:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1538777960
+2023.11.12 17:29:56 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 840823983
+2023.11.12 17:29:57 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1648785984
+Nov 12, 2023 5:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 869619628
+Nov 12, 2023 5:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 374667474
+Nov 12, 2023 5:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 395547820
+Nov 12, 2023 5:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 719955531
+2023.11.12 17:29:58 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 17:29:59 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 17:30:08 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:30:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 993146647
+Nov 12, 2023 5:30:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1844433333
+2023.11.12 17:30:12 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 12, 2023 5:30:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 271639252
+Nov 12, 2023 5:30:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 634667153
+Nov 12, 2023 5:30:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1961620207
+2023.11.12 17:30:17 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.12 17:30:19 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:30:20 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.21 07:30:24 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.21 07:30:24 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.21 07:30:34 INFO  time: initialize in 9.62s
+2023.11.21 07:30:35 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.21 07:31:36 INFO  no build target found for /home/runner/test-3/main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+Nov 21, 2023 7:31:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1836639154
+Nov 21, 2023 7:31:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1684775207
+Nov 21, 2023 7:31:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 882358417
+Nov 21, 2023 7:31:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 465698961
+Nov 21, 2023 7:31:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1769986787
+2023.11.21 07:31:41 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 930027050
+2023.11.21 07:31:41 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 129589039
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1144553544
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1090920
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2022774549
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1653028052
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1868524219
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1220006302
+2023.11.21 07:31:42 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1765144781
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 95048719
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2134437054
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1345239635
+2023.11.21 07:31:42 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25218033
+Nov 21, 2023 7:31:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 463878960
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 693490075
+2023.11.21 07:31:43 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 418403565
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1030769889
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1524452633
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 746103369
+2023.11.21 07:31:43 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1462156960
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1902701510
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1642815147
+2023.11.21 07:31:43 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101008017
+Nov 21, 2023 7:31:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 570987830
+Nov 21, 2023 7:31:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1879352988
+2023.11.21 07:31:44 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1819702309
+Nov 21, 2023 7:31:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2014874832
+Nov 21, 2023 7:31:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1275100512
+Nov 21, 2023 7:31:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1140408850
+Nov 21, 2023 7:31:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 800396216
+2023.11.21 07:31:44 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:31:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 750720651
+Nov 21, 2023 7:31:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1024325257
+Nov 21, 2023 7:31:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 692487618
+Nov 21, 2023 7:31:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1672325364
+2023.11.21 07:31:53 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:31:56 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:31:58 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:32:21 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:32:23 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:32:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 4 is not a valid line number, allowed [0..1]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionInputOffset.toOffset(CommonMtagsEnrichments.scala:602)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toOriginal(TokenEditDistance.scala:256)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrenceQuery(DefinitionProvider.scala:172)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:198)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$definitionOrReferences$1(MetalsLanguageServer.scala:2600)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.MetalsLanguageServer.definitionOrReferences(MetalsLanguageServer.scala:2596)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$definition$1(MetalsLanguageServer.scala:1490)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.definition(MetalsLanguageServer.scala:1489)
+	... 16 more
+
+Nov 21, 2023 7:32:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1548304279
+Nov 21, 2023 7:32:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1384045858
+2023.11.21 07:32:36 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:32:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 512771720
+Nov 21, 2023 7:32:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1680428146
+Nov 21, 2023 7:32:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 6 is not a valid line number, allowed [0..1]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionInputOffset.toOffset(CommonMtagsEnrichments.scala:602)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toOriginal(TokenEditDistance.scala:256)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrenceQuery(DefinitionProvider.scala:172)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:198)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$definitionOrReferences$1(MetalsLanguageServer.scala:2600)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.MetalsLanguageServer.definitionOrReferences(MetalsLanguageServer.scala:2596)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$definition$1(MetalsLanguageServer.scala:1490)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.definition(MetalsLanguageServer.scala:1489)
+	... 16 more
+
+Nov 21, 2023 7:32:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 6 is not a valid line number, allowed [0..1]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionInputOffset.toOffset(CommonMtagsEnrichments.scala:602)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toOriginal(TokenEditDistance.scala:256)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrenceQuery(DefinitionProvider.scala:172)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:198)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$definitionOrReferences$1(MetalsLanguageServer.scala:2600)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.MetalsLanguageServer.definitionOrReferences(MetalsLanguageServer.scala:2596)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$definition$1(MetalsLanguageServer.scala:1490)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.definition(MetalsLanguageServer.scala:1489)
+	... 16 more
+
+2023.11.21 07:32:47 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:32:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1412708907
+2023.11.21 07:32:50 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:32:52 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:33:02 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:33:04 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:33:07 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:33:09 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:33:11 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:34:41 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:34:45 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:34:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 878070551
+Nov 21, 2023 7:34:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 5 is not a valid line number, allowed [0..1]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionInputOffset.toOffset(CommonMtagsEnrichments.scala:602)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toOriginal(TokenEditDistance.scala:256)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrenceQuery(DefinitionProvider.scala:172)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:198)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$definitionOrReferences$1(MetalsLanguageServer.scala:2600)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.MetalsLanguageServer.definitionOrReferences(MetalsLanguageServer.scala:2596)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$definition$1(MetalsLanguageServer.scala:1490)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.definition(MetalsLanguageServer.scala:1489)
+	... 16 more
+
+Nov 21, 2023 7:34:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 314972569
+2023.11.21 07:34:50 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:34:53 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:34:56 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:34:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1872456659
+2023.11.21 07:35:03 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:35:06 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:35:09 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:35:11 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:35:32 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:38:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1255320953
+2023.11.21 07:38:34 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:38:36 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:38:40 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:38:43 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:38:46 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:38:49 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:38:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 569865565
+Nov 21, 2023 7:38:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1592983147
+Nov 21, 2023 7:38:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1070926300
+2023.11.21 07:38:52 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:38:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1355417579
+Nov 21, 2023 7:38:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1394177133
+Nov 21, 2023 7:38:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76463648
+2023.11.21 07:38:55 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:39:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 321345686
+Nov 21, 2023 7:39:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 841879083
+2023.11.21 07:39:06 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:39:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 806386020
+2023.11.21 07:39:13 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:39:14 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:39:17 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 21, 2023 7:39:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1165641081
+2023.11.21 07:39:20 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.21 07:39:22 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:15:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.22 00:15:43 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.22 00:15:43 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.22 00:15:56 INFO  time: initialize in 13s
+2023.11.22 00:15:57 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.22 00:16:54 INFO  no build target found for /home/runner/test-3/main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+Nov 22, 2023 12:16:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 288486304
+2023.11.22 00:17:31 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 12:17:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1474867826
+Nov 22, 2023 12:17:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1753530421
+2023.11.22 00:17:34 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 12:17:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 957201449
+2023.11.22 00:17:35 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 12:17:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1044684726
+2023.11.22 00:17:35 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 12:17:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78257723
+Nov 22, 2023 12:17:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 441339894
+2023.11.22 00:17:39 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:17:40 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:17:40 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:19:38 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:20:59 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:21:02 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:21:04 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:21:06 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:21:10 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 12:21:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 215879789
+2023.11.22 00:21:12 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 12:21:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1586414732
+Nov 22, 2023 12:21:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1101581908
+Nov 22, 2023 12:21:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91914915
+2023.11.22 00:21:17 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:21:20 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:21:22 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 12:24:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1335071438
+Nov 22, 2023 12:24:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1729586016
+Nov 22, 2023 12:24:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 574528474
+Nov 22, 2023 12:24:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 611739505
+2023.11.22 00:24:08 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:24:10 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:24:15 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:24:17 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:24:24 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:24:28 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:25:03 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 00:25:06 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 12:26:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 175613385
+2023.11.22 19:07:26 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.22 19:07:32 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.22 19:07:32 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.22 19:07:43 INFO  time: initialize in 11s
+2023.11.22 19:07:43 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.22 19:09:01 INFO  no build target found for /home/runner/test-3/main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+Nov 22, 2023 7:09:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1752859408
+Nov 22, 2023 7:09:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1175126393
+Nov 22, 2023 7:09:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13719329
+2023.11.22 19:09:06 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:09:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2124504428
+Nov 22, 2023 7:09:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1001270227
+2023.11.22 19:09:06 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:09:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1057746069
+Nov 22, 2023 7:09:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 869807699
+Nov 22, 2023 7:09:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1902156985
+2023.11.22 19:09:07 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:09:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 667290065
+Nov 22, 2023 7:09:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1004981039
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1383589423
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 872886428
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10542110
+2023.11.22 19:09:08 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1239714934
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80502362
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 565408255
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 556212512
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 352231326
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1131007844
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 586200014
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 702006473
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1337146375
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2003383013
+2023.11.22 19:09:08 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 520156697
+Nov 22, 2023 7:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1848257702
+Nov 22, 2023 7:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1371572294
+Nov 22, 2023 7:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 627515832
+2023.11.22 19:09:09 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1743789424
+Nov 22, 2023 7:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 716385267
+Nov 22, 2023 7:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1828766847
+Nov 22, 2023 7:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 191542940
+2023.11.22 19:09:09 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:09:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 387380388
+Nov 22, 2023 7:09:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 131, end 150, length 1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 131, end 150, length 1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 131, end 150, length 1
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4604)
+	at java.base/java.lang.String.substring(String.java:2707)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:667)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:51)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:50)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:49)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Nov 22, 2023 7:09:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 355772719
+Nov 22, 2023 7:09:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1305454188
+2023.11.22 19:09:11 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:22:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2061674723
+Nov 22, 2023 7:22:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 462714275
+Nov 22, 2023 7:22:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1270960392
+Nov 22, 2023 7:22:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1404021895
+2023.11.22 19:23:00 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:23:01 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:23:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1577859818
+2023.11.22 19:23:02 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:23:06 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:23:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1984343998
+2023.11.22 19:23:12 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:23:19 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:23:23 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:24:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 458356865
+Nov 22, 2023 7:24:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 587833787
+2023.11.22 19:24:30 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:24:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1044311512
+2023.11.22 19:24:33 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:24:35 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:25:01 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:25:03 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:25:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1179469386
+Nov 22, 2023 7:25:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1430150097
+2023.11.22 19:25:10 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:35:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 568939606
+2023.11.22 19:35:58 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:36:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1976219321
+Nov 22, 2023 7:36:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 974137362
+2023.11.22 19:36:04 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:36:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1722780773
+2023.11.22 19:36:08 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:36:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1896084802
+Nov 22, 2023 7:36:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 735976524
+Nov 22, 2023 7:36:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 322796886
+2023.11.22 19:36:19 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:36:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 781227081
+Nov 22, 2023 7:36:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 475936665
+Nov 22, 2023 7:36:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 219471623
+Nov 22, 2023 7:36:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 223151279
+2023.11.22 19:36:35 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:36:41 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:36:47 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:36:50 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:36:56 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:36:59 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:37:01 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:37:08 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:37:11 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:37:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 931406992
+Nov 22, 2023 7:37:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1160728500
+Nov 22, 2023 7:37:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 834807098
+Nov 22, 2023 7:37:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 669365942
+2023.11.22 19:37:14 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:37:15 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:38:12 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:40:26 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2023.11.22 19:40:29 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2023.11.22 19:40:29 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2023.11.22 19:40:40 INFO  time: initialize in 11s
+2023.11.22 19:40:41 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.11.22 19:42:30 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:42:39 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:42:54 INFO  no build target found for /home/runner/test-3/main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2023.11.22 19:42:56 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:42:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1229018662
+Nov 22, 2023 7:42:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 651563175
+Nov 22, 2023 7:42:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 644502728
+Nov 22, 2023 7:42:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 602252515
+Nov 22, 2023 7:42:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1864458731
+Nov 22, 2023 7:42:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1699232186
+2023.11.22 19:42:57 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:42:57 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:43:01 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:43:05 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:43:08 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:43:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1466524505
+2023.11.22 19:43:18 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:43:21 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:43:23 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:43:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1824993526
+Nov 22, 2023 7:43:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1549350070
+Nov 22, 2023 7:43:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1936482227
+Nov 22, 2023 7:43:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 196544422
+2023.11.22 19:43:47 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:43:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1257502038
+2023.11.22 19:43:49 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:44:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1194543633
+Nov 22, 2023 7:44:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1599034430
+2023.11.22 19:44:26 WARN  no build target for: /home/runner/test-3/main.scala
+Nov 22, 2023 7:45:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1263907099
+Nov 22, 2023 7:45:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 487583952
+2023.11.22 19:45:11 WARN  no build target for: /home/runner/test-3/main.scala
+2023.11.22 19:45:15 WARN  no build target for: /home/runner/test-3/main.scala
+2024.04.28 00:00:33 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/test-3/.metals/lsp.trace.json or /home/runner/test-3/.cache/metals/lsp.trace.json
+2024.04.28 00:00:37 INFO  logging to file /home/runner/test-3/.metals/metals.log
+2024.04.28 00:00:37 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/test-3' .
+2024.04.28 00:00:54 INFO  time: initialize in 16s
+2024.04.28 00:00:55 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.04.28 00:03:55 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/introprogex3/.metals/lsp.trace.json or /home/runner/introprogex3/.cache/metals/lsp.trace.json
+2024.04.28 00:04:03 INFO  logging to file /home/runner/introprogex3/.metals/metals.log
+2024.04.28 00:04:03 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/introprogex3' .
+2024.04.28 00:04:22 INFO  time: initialize in 19s
+2024.04.28 00:04:24 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.04.28 00:05:57 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/introprogex3/.metals/lsp.trace.json or /home/runner/introprogex3/.cache/metals/lsp.trace.json
+2024.04.28 00:06:01 INFO  logging to file /home/runner/introprogex3/.metals/metals.log
+2024.04.28 00:06:01 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/introprogex3' .
+2024.04.28 00:06:08 INFO  time: initialize in 6.86s
+2024.04.28 00:06:08 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.04.28 00:07:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/introprogex3/.metals/lsp.trace.json or /home/runner/introprogex3/.cache/metals/lsp.trace.json
+2024.04.28 00:07:12 INFO  logging to file /home/runner/introprogex3/.metals/metals.log
+2024.04.28 00:07:12 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/introprogex3' .
+2025.08.06 12:30:53 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/runner/workspace/.metals/lsp.trace.json or /home/runner/workspace/.cache/metals/lsp.trace.json
+2025.08.06 12:30:57 INFO  logging to file /home/runner/workspace/.metals/metals.log
+2025.08.06 12:30:57 INFO  Started: Metals version 0.11.9 in workspace '/home/runner/workspace' .
+2025.08.06 12:31:04 INFO  time: initialize in 6.83s
+2025.08.06 12:31:04 ERROR Unexpected error initializing serverjava.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$syncUserconfiguration$6(MetalsLanguageServer.scala:2711)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
