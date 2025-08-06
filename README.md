@@ -19,8 +19,8 @@ This project is a **command-line ATM (Automated Teller Machine) simulator** buil
 ```bash
 $ scala main.scala
 
-Saisissez votre code identifiant > 0
-Saisissez votre code pin > INTRO1234
+Saisissez votre code identifiant > 1
+Saisissez votre code pin > INTRO1235
 
 Choisissez votre opération : 
    1) Dépôt 
